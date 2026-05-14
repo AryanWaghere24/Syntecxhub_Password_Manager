@@ -1,4 +1,4 @@
-# 🔐 0xKey — Password Manager
+# 🔐 0xKey - Password Manager
 
 A fully local CLI password manager built in Python.
 Credentials are stored encrypted using **AES-256-GCM**.
