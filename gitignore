@@ -1,0 +1,28 @@
+# ── Vault data — NEVER commit these ──────────────────────────
+data/
+logs/
+exports/
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editors ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
