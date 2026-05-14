@@ -53,7 +53,7 @@ python 0xKey.py
 
 ```
   ╔══════════════════════════════════╗
-  ║  0xKey  —  MAIN MENU            ║
+  ║  0xKey  —  MAIN MENU             ║
   ╠══════════════════════════════════╣
   ║  1  Add entry                    ║
   ║  2  List all entries             ║
