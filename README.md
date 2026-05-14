@@ -116,10 +116,10 @@ Your Master Password
 
 ```bash
 # Clone the repository
-git clone https://github.com/AryanWaghere24/0xKey.git
+git clone https://github.com/AryanWaghere24/Syntecxhub_Password_Manager.git
 
 # Navigate into the folder
-cd 0xKey
+cd Syntecxhub_Password_Manager
 
 # Install dependencies
 pip install -r requirements.txt
